@@ -1,10 +1,10 @@
 {
-  "name": "@wcj/reference",
+  "name": "@xtyuns/reference",
   "version": "1.35.0",
-  "description": "为开发人员分享快速参考备忘单(主要是方便自己)。",
-  "author": "jaywcjlove",
+  "description": "自用参考备忘清单",
+  "author": "xtyuns",
   "license": "MIT",
-  "homepage": "https://jaywcjlove.github.io/reference",
+  "homepage": "https://xtyuns.github.io/reference",
   "private": false,
   "scripts": {
     "prepare": "husky install",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/reference.git"
+    "url": "https://github.com/xtyuns/reference.git"
   },
   "bugs": {
-    "url": "https://github.com/jaywcjlove/reference/issues"
+    "url": "https://github.com/xtyuns/reference/issues"
   },
   "keywords": [],
   "lint-staged": {
