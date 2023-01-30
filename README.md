@@ -76,6 +76,11 @@ Hello, World
 
 ## 命令
 
+[Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[Find](./docs/find.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[Sed](./docs/sed.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[Lsof](./docs/lsof.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[jq](./docs/jq.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=JSON-->  
 [Ansible](./docs/ansible.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->  
 [Awk](./docs/awk.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Conan](./docs/conan.md)<!--rehype:style=background: rgb(0 193 9);&class=tag&data-lang=C/C++-->  
@@ -87,18 +92,13 @@ Hello, World
 [CMake](./docs/cmake.md)<!--rehype:style=background: rgb(92 107 192);&class=contributing-->  
 [Make](./docs/make.md)<!--rehype:style=background: rgb(99 99 99);&class=contributing-->  
 [Git](./docs/git.md)<!--rehype:style=background: rgb(215 89 62);-->  
-[Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->  
-[Find](./docs/find.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background: rgb(0 193 9);&class=contributing-->  
 [Htop](./docs/htop.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Homebrew](./docs/homebrew.md)<!--rehype:style=background: rgb(252 185 87);&class=tag&data-lang=macOS-->  
 [Netstat](./docs/netstat.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [iptables](./docs/iptables.md)<!--rehype:style=background: rgb(32 74 135);-->  
-[jq](./docs/jq.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=JSON-->  
-[Lsof](./docs/lsof.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background: rgb(4 92 135);-->  
 [Netcat](./docs/netcat.md)<!--rehype:style=background: rgb(4 92 135);-->  
-[Sed](./docs/sed.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [OpenSSL](./docs/openssl.md)<!--rehype:style=background: rgb(114 20 18);-->  
 [ps](./docs/ps.md)<!--rehype:style=background: rgb(99 99 99);-->  
 [Systemd](./docs/systemd.md)<!--rehype:style=background: rgb(16 185 129);-->  
